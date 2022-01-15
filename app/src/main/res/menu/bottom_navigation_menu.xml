@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+     <item
+         android:id="@+id/movies_List_Fragment"
+         android:title="Movies List"
+         android:icon="@drawable/ic_baseline_movie_24"
+         />
+    <item
+        android:id="@+id/search_Movies_Fragment"
+        android:title="Search Movie"
+        android:icon="@drawable/ic_baseline_search_24"
+        />
+</menu>
